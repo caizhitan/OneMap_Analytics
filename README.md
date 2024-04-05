@@ -1,6 +1,9 @@
 # Onemap_Analytics
 I learned about OneMap through my work, as we needed to integrate its Map Service into our projects. During this process, I discovered the Population Query section, which offered a wealth of information. This sparked my interest to collect this data and store it in my S3 Bucket for further analysis and use.
 
+<img width="1616" alt="image" src="https://github.com/caizhitan/OneMap_Analytics/assets/150103035/219ddeb9-b510-49cf-bbfc-2be2099e4d76">
+
+
 ## Collecting our Data
 ### Setting up AWS S3 Bucket
 
