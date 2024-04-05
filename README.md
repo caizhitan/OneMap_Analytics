@@ -23,4 +23,4 @@ Asyncronous requests are processed in parallel, without waiting for one to compl
 
 [![Watch the video](https://github.com/caizhitan/OneMap_Analytics/assets/150103035/5c461e47-5c85-42db-9df4-845f332a9a08)](https://www.youtube.com/watch?v=gAG4koLhJOI)
 
-As we can see the data collected on the right (Asyncronous) is so much faster and in bulk. The data collected on the left (Syncronous) processes them one-by-one.
+As we can see the data collected on the left (Syncronous) processes them one-by-one. The data collected on the right (Asyncronous) is faster and in parallel.
